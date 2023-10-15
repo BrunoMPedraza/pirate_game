@@ -1,0 +1,75 @@
+INFO:DLIB: Writing log to: ./log.txt
+INFO:ENGINE: Loading data from: build/default
+INFO:LIVEUPDATE: Could not find base .arci/.arcd. Liveupdate disabled
+INFO:ENGINE: Initialised sound device 'default'
+DEBUG:SCRIPT: Input Manager Inicializado
+DEBUG:SCRIPT: Creating TCP server
+DEBUG:SCRIPT: Starting TCP server on port 8098
+INFO:DLIB: SSDP: Started on address 192.168.0.247
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: ¡Hola espacio!
+DEBUG:SCRIPT: Stopping TCP server
+INFO:DLIB: SSDP: Done on address 192.168.0.247

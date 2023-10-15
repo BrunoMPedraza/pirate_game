@@ -1,0 +1,11 @@
+-- [camera.script]
+
+local camera_module = require "scripts.models.render.camera.lua"
+
+function init(self)
+	self.cam = camera_module.create()
+end
+
+function update(self, dt)
+	camera_module.update(self.cam, dt)
+end

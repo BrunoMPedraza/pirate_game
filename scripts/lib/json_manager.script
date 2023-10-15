@@ -1,0 +1,18 @@
+	local cjson = require "cjson.cjson"
+
+function init(self)
+	-- Crear un objeto Lua
+	local key_config = {
+		keys = {
+			SPACE = "key_space",
+			LEFT = "key_left",
+			RIGHT = "key_right"
+		}
+	}
+
+	-- Convertir el objeto Lua a JSON
+	local json_data = cjson.encode(key_config)
+
+	-- Guardar el JSON en el sistema de archivos de escritura
+	sys.save(sys.get_save_file("my_game", "key_config"), {json_data = json_data})
+end

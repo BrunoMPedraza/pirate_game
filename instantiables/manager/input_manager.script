@@ -1,0 +1,17 @@
+local state = require "in.state"
+
+function init(self)
+	print("Input Manager Inicializado")
+	msg.post(".", "acquire_input_focus")  -- Aseguramos que este objeto reciba inputs
+	self.input_state = state.create()  -- Creamos una instancia del manejador de estado de input
+end
+
+function on_input(self, action_id, action)
+	-- Actualizamos el estado del input
+	self.input_state.on_input(action_id, action)
+
+	-- Verificamos si la tecla espacio fue presionada
+	if self.input_state.is_pressed(hash("key_space")) then
+		print("¡Hola espacio!")
+	end
+end
